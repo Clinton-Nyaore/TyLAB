@@ -25,34 +25,34 @@ This Pyqt5-based desktop application utilizes the Vosk API for real-time offline
 
 ## Installation
  Libraries:
-      - beautifulsoup4==4.12.2
-      - certifi==2023.7.22
-      - cffi==1.16.0
-      - charset-normalizer==3.3.1
-      - colorama==0.4.6
-      - docopt==0.6.2
-      - idna==3.4
-      - Js2Py==0.74
-      - packaging==23.2
-      - pipwin==0.5.2
-      - PyAudio @ file:///C:/Users/DELL/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl#sha256=d237571fa256229fbb9e69cd0b7cb62a0ebb60af9bb43e694371b9a75e3b58b4
-      - pycparser==2.21
-      - pyjsparser==2.7.1
-      - PyPrind==2.11.3
-      - PyQt5==5.15.10
-      - PyQt5-Qt5==5.15.2
-      - PyQt5-sip==12.13.0
-      - pySmartDL==1.3.4
-      - requests==2.31.0
-      - six==1.16.0
-      - soupsieve==2.5
-      - srt==3.5.3
-      - tqdm==4.66.1
-      - tzdata==2023.3
-      - tzlocal==5.2
-      - urllib3==2.0.7
-      - vosk==0.3.45
-      - websockets==12.0
+- beautifulsoup4==4.12.2
+- certifi==2023.7.22
+- cffi==1.16.0
+- charset-normalizer==3.3.1
+- colorama==0.4.6
+- docopt==0.6.2
+- idna==3.4
+- Js2Py==0.74
+- packaging==23.2
+- pipwin==0.5.2
+- PyAudio @ file:///C:/Users/DELL/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl#sha256=d237571fa256229fbb9e69cd0b7cb62a0ebb60af9bb43e694371b9a75e3b58b4
+- pycparser==2.21
+- pyjsparser==2.7.1
+- PyPrind==2.11.3
+- PyQt5==5.15.10
+- PyQt5-Qt5==5.15.2
+- PyQt5-sip==12.13.0
+- pySmartDL==1.3.4
+- requests==2.31.0
+- six==1.16.0
+- soupsieve==2.5
+- srt==3.5.3
+- tqdm==4.66.1
+- tzdata==2023.3
+- tzlocal==5.2
+- urllib3==2.0.7
+- vosk==0.3.45
+- websockets==12.0
 
 NOTE : You need to install pipwin first before installing PyAudio library to avoid errors
 
