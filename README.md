@@ -5,7 +5,7 @@ I led a collaborative project that resulted in a Pyqt5-based desktop application
 
 This Pyqt5-based desktop application utilizes the Vosk API for real-time offline speech and audio transcription to text. 
 
-![ui.png]
+![https://github.com/Clinton-Nyaore/TyLAB/blob/main/ui.png]
 
 ## Table of Contents
 - [Features](#features)
